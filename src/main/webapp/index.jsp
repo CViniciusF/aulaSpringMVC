@@ -3,8 +3,9 @@
 <h2>Hello World!</h2>
 
 
-<form action="spring" method="post">
-	<input type="submit" value="teste spring">
+<form action="clientes" method="post">
+	<h1>Bem vindo !</h1>
+	<input type="submit" value="entrar">
 </form>
 </body>
 </html>
